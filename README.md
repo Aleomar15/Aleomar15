@@ -27,4 +27,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </div>
 
-![Snake animation](https://github.com/Aleomar15/Aleomar15/blob/output/github-contribution-grid-snake.svg)
+
