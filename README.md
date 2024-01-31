@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 
 ![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleomar15&count_private=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleomar15&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+# Tecnologias que eu tenho experiência
 ## Stack Primaria
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,vue,mysql,mongodb,github,git)](https://skillicons.dev)
 ## Stack Secundaria
 [![My Skills](https://skillicons.dev/icons?i=sequelize,java,spring,py)](https://skillicons.dev)
-## Tecnologias que já tive contato ou experiencia
+## Tecnologias que já tive contato
 [![My Skills](https://skillicons.dev/icons?i=react,sass,c)](https://skillicons.dev)
 
 
