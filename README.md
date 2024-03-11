@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 ## Stack Secundaria:
 [![My Skills](https://skillicons.dev/icons?i=typescript,mongodb,react,sequelize,java,spring,py)](https://skillicons.dev)
 ## Tecnologias que já tive contato:
-[![My Skills](https://skillicons.dev/icons?i=react,sass,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass,c)](https://skillicons.dev)
 
 
