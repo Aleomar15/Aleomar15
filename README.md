@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## Stack Primaria:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,vue,mysql,github,git)](https://skillicons.dev)
 ## Stack Secundaria:
-[![My Skills](https://skillicons.dev/icons?i=typescript,mongodb,react,sequelize,java,spring,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,mongodb,react,sequelize,java,spring,py,dotnet)](https://skillicons.dev)
 ## Tecnologias que já tive contato:
 [![My Skills](https://skillicons.dev/icons?i=sass,c)](https://skillicons.dev)
 
