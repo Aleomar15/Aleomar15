@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleomar15&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 # Tecnologias que eu tenho experiência:
 ## Stack Primaria:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,vue,mysql,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,dotnet,js,html,nodejs,express,vue,mysql,github,git)](https://skillicons.dev)
 ## Stack Secundaria:
-[![My Skills](https://skillicons.dev/icons?i=typescript,mongodb,react,sequelize,java,spring,py,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,mongodb,css,react,sequelize,java,spring)](https://skillicons.dev)
 ## Tecnologias que já tive contato:
 [![My Skills](https://skillicons.dev/icons?i=sass,c)](https://skillicons.dev)
 
