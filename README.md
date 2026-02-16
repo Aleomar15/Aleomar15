@@ -1,6 +1,6 @@
 ### Olá!! Eu sou Alexandre👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-oliveira-marinho-b64a54229/)
-- 🚀 Atualmente trabalhando e estudadndo RPA e outras tecnologias.
+- 🚀 Atualmente trabalhando e estudando RPA e outras tecnologias.
 
 <!--
 **Aleomar15/Aleomar15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
